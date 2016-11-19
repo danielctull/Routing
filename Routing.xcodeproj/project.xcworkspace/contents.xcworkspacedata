@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ActionRouting.xcodeproj">
+      location = "self:/Users/danielctull/Developer/ActionRouting/Routing.xcodeproj">
    </FileRef>
 </Workspace>

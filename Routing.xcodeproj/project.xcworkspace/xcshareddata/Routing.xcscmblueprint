@@ -7,14 +7,14 @@
     "8FDCB8C6CFBA78E0E3667763514775D0D62067AD" : 9223372036854775807,
     "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9" : 9223372036854775807
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5871B5AD-A334-4ADC-85CB-97F5475CD985",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A3328526-640F-4B5D-9BE6-899C0972B780",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "8FDCB8C6CFBA78E0E3667763514775D0D62067AD" : "ActionRouting\/Configurations\/",
     "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9" : "ActionRouting\/"
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "ActionRouting",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Routing",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ActionRouting.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Routing.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/danielctull\/Xcode-Configurations.git",
