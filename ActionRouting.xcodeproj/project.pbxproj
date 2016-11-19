@@ -85,7 +85,7 @@
 		248E18FA1DE0791A0095516B /* watchOS Extension.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "watchOS Extension.xcconfig"; sourceTree = "<group>"; };
 		248E18FB1DE0791A0095516B /* watchOS Framework.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "watchOS Framework.xcconfig"; sourceTree = "<group>"; };
 		248E18FC1DE0791A0095516B /* watchOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = watchOS.xcconfig; sourceTree = "<group>"; };
-		637B57F11DD608B300A8D71C /* ActionRouting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ActionRouting.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		637B57F11DD608B300A8D71C /* Routing Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Routing Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		637B57F41DD608B300A8D71C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637B57F61DD608B300A8D71C /* PerformerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformerViewController.swift; sourceTree = "<group>"; };
 		637B57F91DD608B300A8D71C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -198,7 +198,7 @@
 		637B57E81DD608B300A8D71C = {
 			isa = PBXGroup;
 			children = (
-				637B57F31DD608B300A8D71C /* ActionRouting */,
+				637B57F31DD608B300A8D71C /* Routing Demo */,
 				248E18BC1DE0767E0095516B /* Routing */,
 				248E18D51DE0791A0095516B /* Configurations */,
 				637B57F21DD608B300A8D71C /* Products */,
@@ -208,13 +208,13 @@
 		637B57F21DD608B300A8D71C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				637B57F11DD608B300A8D71C /* ActionRouting.app */,
+				637B57F11DD608B300A8D71C /* Routing Demo.app */,
 				248E18BB1DE0767E0095516B /* Routing.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		637B57F31DD608B300A8D71C /* ActionRouting */ = {
+		637B57F31DD608B300A8D71C /* Routing Demo */ = {
 			isa = PBXGroup;
 			children = (
 				637B57F41DD608B300A8D71C /* AppDelegate.swift */,
@@ -226,7 +226,7 @@
 				637B57FD1DD608B300A8D71C /* LaunchScreen.storyboard */,
 				637B58001DD608B300A8D71C /* Info.plist */,
 			);
-			path = ActionRouting;
+			path = "Routing Demo";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,9 +261,9 @@
 			productReference = 248E18BB1DE0767E0095516B /* Routing.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		637B57F01DD608B300A8D71C /* ActionRouting */ = {
+		637B57F01DD608B300A8D71C /* Routing Demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 637B58031DD608B300A8D71C /* Build configuration list for PBXNativeTarget "ActionRouting" */;
+			buildConfigurationList = 637B58031DD608B300A8D71C /* Build configuration list for PBXNativeTarget "Routing Demo" */;
 			buildPhases = (
 				637B57ED1DD608B300A8D71C /* Sources */,
 				637B57EE1DD608B300A8D71C /* Frameworks */,
@@ -275,9 +275,9 @@
 			dependencies = (
 				248E18C11DE0767E0095516B /* PBXTargetDependency */,
 			);
-			name = ActionRouting;
+			name = "Routing Demo";
 			productName = ActionRouting;
-			productReference = 637B57F11DD608B300A8D71C /* ActionRouting.app */;
+			productReference = 637B57F11DD608B300A8D71C /* Routing Demo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -316,7 +316,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				637B57F01DD608B300A8D71C /* ActionRouting */,
+				637B57F01DD608B300A8D71C /* Routing Demo */,
 				248E18BA1DE0767E0095516B /* Routing */,
 			);
 		};
@@ -474,7 +474,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		637B58031DD608B300A8D71C /* Build configuration list for PBXNativeTarget "ActionRouting" */ = {
+		637B58031DD608B300A8D71C /* Build configuration list for PBXNativeTarget "Routing Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				637B58041DD608B300A8D71C /* Debug */,
