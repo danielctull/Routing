@@ -1,7 +1,7 @@
 
 import Foundation
 
-protocol Performer {
+public protocol Performer {
 	func canPerform(action: Action) -> Bool
 	func perform(action: Action) -> Bool
 }

@@ -14,7 +14,7 @@ extension UINavigationController {
 
 	// Provide the top-most view controller first by reversing the
 	// view controllers array.
-	override var routingChildViewControllers: [UIViewController] {
+	override open var routingChildViewControllers: [UIViewController] {
 		return viewControllers.reversed()
 	}
 }

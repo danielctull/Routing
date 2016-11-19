@@ -14,7 +14,7 @@ extension UIViewController {
 
 extension UIViewController {
 
-	func route(action: Action) -> Bool {
+	open func route(action: Action) -> Bool {
 
 		if let performer = self as? Performer, performer.canPerform(action: action) {
 			show()
@@ -51,7 +51,7 @@ extension UIViewController {
 		CATransaction.flush()
 	}
 
-	var routingChildViewControllers: [UIViewController] {
+	open var routingChildViewControllers: [UIViewController] {
 		return childViewControllers
 	}
 }

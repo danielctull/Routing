@@ -9,7 +9,7 @@ extension UITabBarController {
 	}
 
 	// Provide the selected view controller first.
-	override var routingChildViewControllers: [UIViewController] {
+	override open var routingChildViewControllers: [UIViewController] {
 
 		guard let selectedViewController = selectedViewController else {
 			return childViewControllers
