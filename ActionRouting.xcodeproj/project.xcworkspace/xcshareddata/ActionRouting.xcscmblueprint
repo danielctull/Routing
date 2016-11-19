@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8FDCB8C6CFBA78E0E3667763514775D0D62067AD" : 9223372036854775807,
+    "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5871B5AD-A334-4ADC-85CB-97F5475CD985",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8FDCB8C6CFBA78E0E3667763514775D0D62067AD" : "ActionRouting\/Configurations\/",
+    "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9" : "ActionRouting\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ActionRouting",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ActionRouting.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/danielctull\/Xcode-Configurations.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FDCB8C6CFBA78E0E3667763514775D0D62067AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:danielctull-playground\/ActionRouting.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9"
+    }
+  ]
+}
