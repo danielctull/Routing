@@ -12,7 +12,7 @@ extension UIViewController {
 	}
 }
 
-extension UIViewController: Router {
+extension UIViewController {
 
 	func route(action: Action) -> Bool {
 

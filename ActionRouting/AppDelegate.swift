@@ -14,11 +14,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 	func showScreen(_ screen: Screen) {
 
-		guard let router = window?.rootViewController as? Router else {
+		guard let rootViewController = window?.rootViewController else {
 			return
 		}
 
-		let routed = router.route(action: screen)
+		let routed = rootViewController.route(action: screen)
 		print("IS THIS ROUTED?", routed)
 	}
 }

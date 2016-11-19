@@ -14,7 +14,6 @@
 		637B57FC1DD608B300A8D71C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 637B57FB1DD608B300A8D71C /* Assets.xcassets */; };
 		637B57FF1DD608B300A8D71C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637B57FD1DD608B300A8D71C /* LaunchScreen.storyboard */; };
 		637B58071DD608C100A8D71C /* Action.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B58061DD608C100A8D71C /* Action.swift */; };
-		637B58091DD608DA00A8D71C /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B58081DD608DA00A8D71C /* Router.swift */; };
 		637B580B1DD608F200A8D71C /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B580A1DD608F200A8D71C /* UIViewController.swift */; };
 		637B580D1DD6090A00A8D71C /* UINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B580C1DD6090A00A8D71C /* UINavigationController.swift */; };
 		637B580F1DD6095E00A8D71C /* UITabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B580E1DD6095E00A8D71C /* UITabBarController.swift */; };
@@ -33,7 +32,6 @@
 		637B57FE1DD608B300A8D71C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		637B58001DD608B300A8D71C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		637B58061DD608C100A8D71C /* Action.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Action.swift; sourceTree = "<group>"; };
-		637B58081DD608DA00A8D71C /* Router.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
 		637B580A1DD608F200A8D71C /* UIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		637B580C1DD6090A00A8D71C /* UINavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UINavigationController.swift; sourceTree = "<group>"; };
 		637B580E1DD6095E00A8D71C /* UITabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITabBarController.swift; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 				637B57FD1DD608B300A8D71C /* LaunchScreen.storyboard */,
 				637B58001DD608B300A8D71C /* Info.plist */,
 				637B58061DD608C100A8D71C /* Action.swift */,
-				637B58081DD608DA00A8D71C /* Router.swift */,
 				6346D66C1DDB3CA6000482BF /* Performer.swift */,
 				637B580A1DD608F200A8D71C /* UIViewController.swift */,
 				637B580C1DD6090A00A8D71C /* UINavigationController.swift */,
@@ -165,7 +162,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				637B580F1DD6095E00A8D71C /* UITabBarController.swift in Sources */,
-				637B58091DD608DA00A8D71C /* Router.swift in Sources */,
 				637B57F71DD608B300A8D71C /* PerformerViewController.swift in Sources */,
 				63B4BBFE1DDB6FEB00D92B4B /* UISplitViewController.swift in Sources */,
 				637B58071DD608C100A8D71C /* Action.swift in Sources */,
