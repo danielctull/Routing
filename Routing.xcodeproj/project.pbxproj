@@ -16,6 +16,7 @@
 		248E18D11DE076B90095516B /* UISplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248E18CB1DE076B90095516B /* UISplitViewController.swift */; };
 		248E18D21DE076B90095516B /* UITabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248E18CC1DE076B90095516B /* UITabBarController.swift */; };
 		248E18D31DE076B90095516B /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248E18CD1DE076B90095516B /* UIViewController.swift */; };
+		24A0243B1E2FAB84008CA2D8 /* UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A0243A1E2FAB84008CA2D8 /* UIApplication.swift */; };
 		637B57F51DD608B300A8D71C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B57F41DD608B300A8D71C /* AppDelegate.swift */; };
 		637B57F71DD608B300A8D71C /* PerformerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B57F61DD608B300A8D71C /* PerformerViewController.swift */; };
 		637B57FA1DD608B300A8D71C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637B57F81DD608B300A8D71C /* Main.storyboard */; };
@@ -85,6 +86,7 @@
 		248E18FA1DE0791A0095516B /* watchOS Extension.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "watchOS Extension.xcconfig"; sourceTree = "<group>"; };
 		248E18FB1DE0791A0095516B /* watchOS Framework.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "watchOS Framework.xcconfig"; sourceTree = "<group>"; };
 		248E18FC1DE0791A0095516B /* watchOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = watchOS.xcconfig; sourceTree = "<group>"; };
+		24A0243A1E2FAB84008CA2D8 /* UIApplication.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplication.swift; sourceTree = "<group>"; };
 		637B57F11DD608B300A8D71C /* Routing Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Routing Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		637B57F41DD608B300A8D71C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637B57F61DD608B300A8D71C /* PerformerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformerViewController.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				248E18CA1DE076B90095516B /* UINavigationController.swift */,
 				248E18CB1DE076B90095516B /* UISplitViewController.swift */,
 				248E18CC1DE076B90095516B /* UITabBarController.swift */,
+				24A0243A1E2FAB84008CA2D8 /* UIApplication.swift */,
 				248E18BE1DE0767E0095516B /* Info.plist */,
 			);
 			path = Routing;
@@ -348,6 +351,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				248E18D01DE076B90095516B /* UINavigationController.swift in Sources */,
+				24A0243B1E2FAB84008CA2D8 /* UIApplication.swift in Sources */,
 				248E18CF1DE076B90095516B /* Performer.swift in Sources */,
 				248E18D31DE076B90095516B /* UIViewController.swift in Sources */,
 				248E18CE1DE076B90095516B /* Action.swift in Sources */,
