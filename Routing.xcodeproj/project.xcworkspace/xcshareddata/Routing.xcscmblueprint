@@ -9,8 +9,8 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A3328526-640F-4B5D-9BE6-899C0972B780",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "8FDCB8C6CFBA78E0E3667763514775D0D62067AD" : "ActionRouting\/Configurations\/",
-    "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9" : "ActionRouting\/"
+    "8FDCB8C6CFBA78E0E3667763514775D0D62067AD" : "Routing\/Configurations\/",
+    "939DC28710EB2E9FBC4B1FD04B3BE8BFEE4F07F9" : "Routing\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Routing",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
